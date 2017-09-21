@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/component/news/news.router.js" />
+        <item url="file://$PROJECT_DIR$/dist/component/news/news.controller.js" />
+        <item url="file://$PROJECT_DIR$/dist/component/users/user.model.js" />
+        <item url="file://$PROJECT_DIR$/dist/component/news/news.model.js" />
+        <item url="file://$PROJECT_DIR$/dist/component/router.js" />
+        <item url="file://$PROJECT_DIR$/dist/server.js" />
+        <item url="file://$PROJECT_DIR$/dist/component/users/user.router.js" />
+        <item url="file://$PROJECT_DIR$/dist/component/users/user.controller.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/model/News.js" />
+      <root url="file://$PROJECT_DIR$/dist/model/Users.js" />
+      <root url="file://$PROJECT_DIR$/dist/controller/News.js" />
+      <root url="file://$PROJECT_DIR$/dist/route.js" />
+      <root url="file://$PROJECT_DIR$/dist/controller/Users.js" />
+      <root url="file://$PROJECT_DIR$/dist/model/News.js" />
+      <root url="file://$PROJECT_DIR$/dist/model/Users.js" />
+      <root url="file://$PROJECT_DIR$/dist/controller/News.js" />
+      <root url="file://$PROJECT_DIR$/dist/route.js" />
+      <root url="file://$PROJECT_DIR$/dist/controller/Users.js" />
+      <root url="file://$PROJECT_DIR$/dist/component/news/news.router.js" />
+      <root url="file://$PROJECT_DIR$/dist/component/news/news.controller.js" />
+      <root url="file://$PROJECT_DIR$/dist/component/users/user.model.js" />
+      <root url="file://$PROJECT_DIR$/dist/component/news/news.model.js" />
+      <root url="file://$PROJECT_DIR$/dist/component/router.js" />
+      <root url="file://$PROJECT_DIR$/dist/server.js" />
+      <root url="file://$PROJECT_DIR$/dist/component/users/user.router.js" />
+      <root url="file://$PROJECT_DIR$/dist/component/users/user.controller.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
